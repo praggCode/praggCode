@@ -39,7 +39,6 @@ Here’s what I’m working with:
 - **Frontend**: React, Bootstrap, TailwindCSS  
 - **Backend**: Node.js (exploring)  
 - **Version Control**: Git, GitHub  
-
 ---
 
 ## 🎯 **Looking to Collaborate On**  
@@ -49,3 +48,22 @@ Here’s what I’m working with:
 ---
 
 Thank you for stopping by! 🌟 Let’s build something amazing together.  
+
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=praggCode&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/praggCode/github-readme-activity-graph)
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=praggCode&theme=aura" alt="Repos per Language" width="45%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praggCode&theme=aura" alt="Most Commit Language" width="45%" />
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=praggCode&theme=aura" alt="GitHub Stats" width="45%" />
+</div>
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=praggCode&show_icons=true&theme=dark)](https://github.com/praggCode)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=praggCode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-contributor-stats.vercel.app/api?username=praggCode&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
