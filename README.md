@@ -70,8 +70,6 @@ Thank you for stopping by! 🌟 Let’s build something amazing together.
 
 ## 📈 **GitHub Highlights**  
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=praggCode&bg_color=0d1117&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/praggCode/github-readme-activity-graph)
-
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=praggCode&theme=aura" alt="Repos per Language" width="45%" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praggCode&theme=aura" alt="Most Commit Language" width="45%" />
