@@ -1,5 +1,22 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>  
 
-# 👋 Hello, I'm **Progyan Sen** (aka @praggCode)  
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />, I'm Hanshvee Progyan Sen </h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/progyan-sen-91b585331/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:progyansen@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/u/pragg_2024/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+  </a>
+  <a href="https://www.codechef.com/users/pragg_2024">
+    <img src="https://img.shields.io/badge/-CodeChef-0F9D58?style=for-the-badge&logo=Codechef&logoColor=white">
+  </a>
+</p>
 
 Welcome to my little corner of the web! 🚀  
 I’m a passionate **Web Developer** with a love for **UI/UX design** and a strong inclination towards **open-source projects**. My journey in tech is fueled by curiosity and a constant desire to learn and create.  
@@ -70,4 +87,11 @@ Thank you for stopping by! 🌟 Let’s build something amazing together.
     <img src="https://github-contributor-stats.vercel.app/api?username=praggCode&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contribution Stats" />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hansh0606&style=for-the-badge" alt="Profile views">
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 ---
