@@ -88,10 +88,10 @@ Thank you for stopping by! 🌟 Let’s build something amazing together.
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hansh0606&style=for-the-badge" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=praggCode&style=for-the-badge" alt="Profile views">
 </p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
----
+
